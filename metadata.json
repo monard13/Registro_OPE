@@ -1,0 +1,5 @@
+{
+  "name": "ORDENES DE TICKET",
+  "description": "Una Progressive Web App (PWA) para generar órdenes de ticket y dividir montos de transferencia.",
+  "requestFramePermissions": []
+}

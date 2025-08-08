@@ -1,0 +1,31 @@
+{
+  "short_name": "Ordenes Ticket",
+  "name": "ORDENES DE TICKET",
+  "description": "Aplicación para generar órdenes de ticket y dividir montos de transferencia.",
+  "icons": [
+    {
+      "src": "https://www.gstatic.com/images/branding/product/1x/drive_2020q4_48dp.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "https://www.gstatic.com/images/branding/product/1x/drive_2020q4_96dp.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "https://www.gstatic.com/images/branding/product/2x/drive_2020q4_192dp.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://www.gstatic.com/images/branding/product/2x/drive_2020q4_512dp.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0f172a",
+  "background_color": "#020617"
+}
